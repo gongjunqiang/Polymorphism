@@ -18,12 +18,12 @@ namespace Polymorphism
             //TestInterface.Test04();
 
             //在工厂在返回对象
-            //ITeach teach = ObjectFactory.CreateObject();
-            //teach.StudyCourse();
-            //Console.WriteLine(teach.Exam("123456789"));
+            ITeach teach = ObjectFactory.CreateObject();
+            teach.StudyCourse();
+            Console.WriteLine(teach.Exam("123456789"));
 
 
-            //反射：
+            //反射测试：
             TestReflection.Test();
 
             Console.ReadLine();

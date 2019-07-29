@@ -5,3 +5,10 @@ C:\Users\GJQ\source\repos\Polymorphism\Polymorphism\obj\Debug\InterfaceAndPolymo
 C:\Users\GJQ\source\repos\Polymorphism\Polymorphism\obj\Debug\InterfaceAndPolymorphism.csproj.CoreCompileInputs.cache
 C:\Users\GJQ\source\repos\Polymorphism\Polymorphism\obj\Debug\Polymorphism.exe
 C:\Users\GJQ\source\repos\Polymorphism\Polymorphism\obj\Debug\Polymorphism.pdb
+C:\Users\GJQ\Desktop\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe.config
+C:\Users\GJQ\Desktop\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe
+C:\Users\GJQ\Desktop\Polymorphism\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\Users\GJQ\Desktop\Polymorphism\Polymorphism\obj\Debug\InterfaceAndPolymorphism.csprojAssemblyReference.cache
+C:\Users\GJQ\Desktop\Polymorphism\Polymorphism\obj\Debug\InterfaceAndPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\GJQ\Desktop\Polymorphism\Polymorphism\obj\Debug\Polymorphism.exe
+C:\Users\GJQ\Desktop\Polymorphism\Polymorphism\obj\Debug\Polymorphism.pdb

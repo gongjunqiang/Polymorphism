@@ -16,7 +16,9 @@ namespace Polymorphism.对象在工厂中创建
         public int Salary { get; set; }
 
         public Teacher()
-        { }
+        {
+            this.Name = "张老师";
+        }
         public Teacher(string name)
         { this.Name = name; }
 
