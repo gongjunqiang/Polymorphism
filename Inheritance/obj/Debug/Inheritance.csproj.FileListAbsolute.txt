@@ -1,0 +1,7 @@
+C:\Users\GJQ\source\repos\Polymorphism\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\GJQ\source\repos\Polymorphism\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\GJQ\source\repos\Polymorphism\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\GJQ\source\repos\Polymorphism\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\GJQ\source\repos\Polymorphism\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\GJQ\source\repos\Polymorphism\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\GJQ\source\repos\Polymorphism\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache

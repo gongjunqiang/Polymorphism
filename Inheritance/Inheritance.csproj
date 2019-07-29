@@ -43,11 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="1.普通继承\Person.cs" />
+    <Compile Include="1.普通继承\InheritanceTest.cs" />
+    <Compile Include="2.继承多态\InheritanceTest.cs" />
+    <Compile Include="2.继承多态\Person.cs" />
+    <Compile Include="2.继承多态\Student.cs" />
+    <Compile Include="2.继承多态\Teacher.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="1.普通继承\Student.cs" />
+    <Compile Include="1.普通继承\Teacher.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

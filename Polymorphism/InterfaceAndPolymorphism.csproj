@@ -34,6 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -43,11 +44,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="反射\TestReflection.cs" />
+    <Compile Include="对象在工厂中创建\Dean.cs" />
+    <Compile Include="对象在工厂中创建\ITeach.cs" />
+    <Compile Include="对象在工厂中创建\ObjectFactory.cs" />
+    <Compile Include="对象在工厂中创建\OtherTeacher.cs" />
+    <Compile Include="对象在工厂中创建\Person.cs" />
+    <Compile Include="对象在工厂中创建\Teacher.cs" />
+    <Compile Include="接口与多态\ITeach.cs" />
+    <Compile Include="接口与多态\Dean.cs" />
+    <Compile Include="接口与多态\TestInterface.cs" />
+    <Compile Include="接口与多态\IMeeting.cs" />
+    <Compile Include="接口与多态\President.cs" />
+    <Compile Include="接口与多态\Teacher.cs" />
+    <Compile Include="接口与多态\Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
