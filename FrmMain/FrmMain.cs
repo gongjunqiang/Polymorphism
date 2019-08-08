@@ -30,7 +30,7 @@ namespace FrmMain
             {
                 FrmChild frmChild = new FrmChild($"子窗体{i+1}");
                 frmChild.passMesgdelegate = PassMesg;
-                frmChild.Show();
+                 frmChild.Show();
             }
         }
     }
